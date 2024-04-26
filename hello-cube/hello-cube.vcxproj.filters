@@ -42,7 +42,19 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="textures\frame007.png">
+    <Image Include="textures\slab_a.png">
+      <Filter>Resource Files\textures</Filter>
+    </Image>
+    <Image Include="textures\slab_n.png">
+      <Filter>Resource Files\textures</Filter>
+    </Image>
+    <Image Include="textures\gray_rocks_diff_1k.png">
+      <Filter>Resource Files\textures</Filter>
+    </Image>
+    <Image Include="textures\gray_rocks_nor_gl_1k.png">
+      <Filter>Resource Files\textures</Filter>
+    </Image>
+    <Image Include="textures\gray_rocks_rough_1k.png">
       <Filter>Resource Files\textures</Filter>
     </Image>
   </ItemGroup>
